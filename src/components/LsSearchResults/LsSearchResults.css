@@ -1,0 +1,9 @@
+.dvSearchResults {
+  display: flex;
+  justify-content: center;
+}
+.dvSearchResults li {
+  cursor: pointer;
+  list-style: none;
+  margin-bottom: 10px;
+}

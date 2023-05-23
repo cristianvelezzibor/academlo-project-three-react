@@ -1,0 +1,44 @@
+.dvInputSearch {
+  display: flex;
+  justify-content: center;
+  margin-bottom: 20px;
+  width: 100%;
+}
+.inputSearch {
+  display: flex;
+  justify-content: center;
+  gap: 40px;
+}
+.inputSearch div:nth-child(1) {
+  display: flex;
+  gap: 10px;
+}
+.inputSearch div:nth-child(2) {
+  display: flex;
+  gap: 10px;
+}
+.inputSearch input {
+  padding-left: 20px;
+  font-size: 20px;
+  border-top-color: #435355;
+  background: #05292e;
+  outline: none;
+  color: white;
+}
+.inputSearch button {
+  width: 100px;
+  border-top-color: #435355;
+  background: #05292e;
+  color: white;
+}
+.inputSearch select {
+  width: 120px;
+  height: 45px;
+  border: none;
+  background: #062226;
+  color: #20b2aa;
+  text-align-last: center;
+}
+.inputSearch option {
+  text-align: center;
+}

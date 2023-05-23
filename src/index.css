@@ -1,0 +1,20 @@
+*,
+*::after,
+*::before {
+  box-sizing: border-box;
+}
+body {
+  background: #05292e;
+  margin: 0px;
+  color: white;
+}
+@font-face {
+  font-family: "roboto";
+  src: url("./assets/fonts/Roboto-Light.ttf") format("truetype");
+}
+p,
+h2,
+h3,
+ul {
+  font-family: "roboto";
+}

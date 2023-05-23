@@ -1,0 +1,38 @@
+.residentCard {
+  background: #062226;
+  border-radius: 20px;
+}
+.residentCard img {
+  border-top-right-radius: 20px;
+  border-top-left-radius: 20px;
+}
+.residentCard h3 {
+  margin-top: 15px;
+  margin-bottom: 5px;
+  padding-left: 15px;
+}
+.residentCard hr {
+  width: 93%;
+}
+.residentCardInfo {
+  padding-left: 15px;
+  padding-bottom: 3px;
+}
+.residentCardInfo div:nth-child(1) {
+  line-height: 5px;
+  padding-top: 2px;
+  padding-bottom: 0.5px;
+}
+.residentCardInfo div:nth-child(2) {
+  line-height: 5px;
+  padding-top: 2px;
+  padding-bottom: 0.5px;
+}
+.residentCardInfo div:nth-child(3) {
+  line-height: 5px;
+  padding-top: 2px;
+  padding-bottom: 0.5px;
+}
+.residentCardInfoEnun {
+  color: #7e7e7e;
+}
